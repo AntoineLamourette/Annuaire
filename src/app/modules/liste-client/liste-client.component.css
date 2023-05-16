@@ -1,0 +1,22 @@
+.detailListe{
+
+    display: flex;
+    background-color: rgb(236, 182, 182);
+    color: rgb(13, 13, 204);
+    
+}
+
+h1{
+    display: flex;
+    color: red;
+
+}
+
+#id, #nom, #prenom{
+    color: black;
+
+}
+
+#adresse, #boolean{
+    color: rgb(29, 156, 114);
+}
